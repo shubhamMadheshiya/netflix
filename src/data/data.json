@@ -1,0 +1,120 @@
+[
+  {
+    "name": "The Dark Knight",
+    "director": "Christopher Nolan",
+    "summary": "Batman sets out to dismantle the remaining criminal organizations that plague Gotham City, but soon finds himself drawn into a deeper conflict involving the Joker.",
+    "poster": "https://cdn.shopify.com/s/files/1/0057/3728/3618/products/darkknight.building.24x36_480x.progressive.jpg?v=1648745678",
+    "trailer": "https://www.youtube.com/watch?v=EXeTwQWrcwY",
+    "release_year": 2008,
+    "cast": ["Christian Bale", "Heath Ledger", "Aaron Eckhart"]
+  },
+  {
+    "name": "The Shawshank Redemption",
+    "director": "Frank Darabont",
+    "summary": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
+    "poster": "https://cdn.shopify.com/s/files/1/0057/3728/3618/products/shawshank.128000_480x.progressive.jpg?v=1590097750",
+    "trailer": "https://www.youtube.com/watch?v=6hB3S9bIaco",
+    "release_year": 1994,
+    "cast": ["Tim Robbins", "Morgan Freeman", "Bob Gunton"]
+  },
+  {
+    "name": "The Godfather",
+    "director": "Francis Ford Coppola",
+    "summary": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.",
+    "poster": "https://cdn.shopify.com/s/files/1/0057/3728/3618/products/the-godfather_lkfmijop_480x.progressive.jpg?v=1645738174",
+    "trailer": "https://www.youtube.com/watch?v=sY1S34973zA",
+    "release_year": 1972,
+    "cast": ["Marlon Brando", "Al Pacino", "James Caan"]
+  },
+  {
+    "name": "Pulp Fiction",
+    "director": "Quentin Tarantino",
+    "summary": "The lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",
+    "poster": "https://cdn.shopify.com/s/files/1/0057/3728/3618/products/ab401c136cca10812cda5ac64c3f7c2e_bb5e62f7-b34f-4547-b5c7-495cc2dd1bd9_480x.progressive.jpg?v=1573591339",
+    "trailer": "https://www.youtube.com/watch?v=s7EdQ4FqbhY",
+    "release_year": 1994,
+    "cast": ["John Travolta", "Samuel L. Jackson", "Uma Thurman"]
+  },
+  {
+    "name": "The Lord of the Rings",
+    "director": "Peter Jackson",
+    "summary": "A meek hobbit of the Shire and eight companions set out on a journey to Mount Doom to destroy the One Ring and the dark lord Sauron.",
+    "poster": "https://cdn.shopify.com/s/files/1/0057/3728/3618/products/b1b6860c465f64983d81a2ce14019d7e_cb04f573-c07e-4fc4-af7d-72fcb83623d6_480x.progressive.jpg?v=1573588822",
+    "trailer": "https://www.youtube.com/watch?v=Pki6jbSbXIY",
+    "release_year": 2001,
+    "cast": ["Elijah Wood", "Ian McKellen", "Orlando Bloom"]
+  },
+  {
+    "name": "Forrest Gump",
+    "director": "Robert Zemeckis",
+    "summary": "The presidencies of Kennedy and Johnson, the Vietnam War, and the civil rights movement shape the life of a simple Alabama man named Forrest Gump.",
+    "poster": "https://cdn.shopify.com/s/files/1/0057/3728/3618/products/forrest-gump---24x36_480x.progressive.jpg?v=1645558337",
+    "trailer": "https://www.youtube.com/watch?v=uPIEn0M8su0",
+    "release_year": 1994,
+    "cast": ["Tom Hanks", "Robin Wright", "Gary Sinise"]
+  },
+  {
+    "name": "The Matrix",
+    "director": "The Wachowski Brothers",
+    "summary": "A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.",
+    "poster": "https://cdn.shopify.com/s/files/1/0057/3728/3618/products/9fcc8387e9d47ab5af4318d7183f6d2b_19f7e1e1-3941-4c27-bad1-1f6dd70f35e0_480x.progressive.jpg?v=1573587594",
+    "trailer": "https://www.youtube.com/watch?v=m8e-FF8MsqU",
+    "release_year": 1999,
+    "cast": ["Keanu Reeves", "Laurence Fishburne", "Carrie-Anne Moss"]
+  },
+  {
+    "name": "Inception",
+    "director": "Christopher Nolan",
+    "summary": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a CEO.",
+    "poster": "https://cdn.shopify.com/s/files/1/0057/3728/3618/products/9c592dee1ac813fcaf8c93557a487557_675ff711-4f45-4a98-95a5-0f97302b2126_480x.progressive.jpg?v=1573618688",
+    "trailer": "https://www.youtube.com/watch?v=YoHD9XEInc0",
+    "release_year": 2010,
+    "cast": ["Leonardo DiCaprio", "Joseph Gordon-Levitt", "Ellen Page"]
+  },
+  {
+    "name": "The Silence of the Lambs",
+    "director": "Jonathan Demme",
+    "summary": "A young FBI cadet must receive the help of an incarcerated and manipulative cannibal killer to help catch another serial killer, a madman who skins his victims.",
+    "poster": "https://cdn.shopify.com/s/files/1/0057/3728/3618/products/b163110398b63ab34701e5653934b5da_0f9daf7c-d36f-40a0-a589-b5484664de78_480x.progressive.jpg?v=1573587503",
+    "trailer": "https://www.youtube.com/watch?v=lQKs169Sl0I",
+    "release_year": 1991,
+    "cast": ["Jodie Foster", "Anthony Hopkins", "Scott Glenn"]
+  },
+  {
+    "name": "Goodfellas",
+    "director": "Martin Scorsese",
+    "summary": "The story of Henry Hill and his life in the mob, covering his relationship with his wife Karen Hill and his mob partners Jimmy Conway and Tommy DeVito in the Italian-American crime syndicate.",
+    "poster": "https://cdn.shopify.com/s/files/1/0057/3728/3618/products/ef4b93ef8f7157de3f97ae1ff5d21b56_0526bb98-1f4a-4da5-b928-b0025f5e6371_480x.progressive.jpg?v=1573585487",
+    "trailer": "https://www.youtube.com/watch?v=qo5jJpHtI1Y",
+    "release_year": 1990,
+    "cast": ["Robert De Niro", "Ray Liotta", "Joe Pesci"]
+  },
+  {
+    "name": "Schindler's List",
+    "director": "Steven Spielberg",
+    "summary": "In German-occupied Poland during World War II, Oskar Schindler gradually becomes concerned for his Jewish workforce after witnessing their persecution by the Nazis.",
+    "poster": "https://cdn.shopify.com/s/files/1/0057/3728/3618/products/5fbfe03541a8ed224e7d0d132fb63181_c6f1956f-f5b8-4f11-b9e5-77d7dba5347c_480x.progressive.jpg?v=1573651232",
+    "trailer": "https://www.youtube.com/watch?v=JdRGC-w9syA",
+    "release_year": 1993,
+    "cast": ["Liam Neeson", "Ben Kingsley", "Ralph Fiennes"]
+  },
+  {
+    "name": "The Lord of the Rings: The Two Towers",
+    "director": "Peter Jackson",
+    "summary": "Frodo and Sam continue on to Mordor in their mission to destroy the One Ring. Whilst their former companions make new allies and launch an assault on Isengard.",
+    "poster": "https://cdn.shopify.com/s/files/1/0057/3728/3618/products/LOTR.2towers.24x36_480x.progressive.jpg?v=1615567873",
+    "trailer": "https://www.youtube.com/watch?v=LbfMDwc4azU",
+    "release_year": 2002,
+    "cast": ["Elijah Wood", "Ian McKellen", "Viggo Mortensen"]
+  },
+  {
+    "name": "Forrest Gump",
+    "director": "Robert Zemeckis",
+    "summary": "The presidencies of Kennedy and Johnson, the events of Vietnam, Watergate, and other historical events unfold through the perspective of an Alabama man with an IQ of 75.",
+    "poster": "https://cdn.shopify.com/s/files/1/0057/3728/3618/products/forrest-gump---24x36_480x.progressive.jpg?v=1645558337",
+    "trailer": "https://www.youtube.com/watch?v=bLvqoHBptjg",
+    "release_year": 1994,
+    "cast": ["Tom Hanks", "Robin Wright", "Gary Sinise"]
+  }
+ 
+]
